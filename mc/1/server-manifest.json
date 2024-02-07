@@ -1,0 +1,791 @@
+{
+  "name": "旅禾专用端",
+  "author": "旅禾",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://data.qqzhi.cc/mc/1",
+  "files": [
+    {
+      "path": "config/ad_astra-client.jsonc",
+      "hash": "b3ca64946f10d11f3347bcf27092419851271644"
+    },
+    {
+      "path": "config/ad_astra.jsonc",
+      "hash": "570c7b5de4f2618a1ed02adaf3d7e0da06ed0845"
+    },
+    {
+      "path": "config/appleskin.json5",
+      "hash": "4994b8afdf50b6412aa302a70c31a9f04bfb73fa"
+    },
+    {
+      "path": "config/cardinal-components-api.properties",
+      "hash": "fa888bcbf7e935bdae5567d26ffad1ac2f93b35c"
+    },
+    {
+      "path": "config/collective.json5",
+      "hash": "840adf33852578f239021004dd2412c8cf6c3f58"
+    },
+    {
+      "path": "config/comforts-server.toml",
+      "hash": "5a1bf3602fc838a0f16bb433a24ca14f7ef7a943"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "hash": "f14403b27aa72b592179ee533b3f29cbc1579e00"
+    },
+    {
+      "path": "config/ias.json",
+      "hash": "b7f8ab135196768aebe9be152541acaed726ac85"
+    },
+    {
+      "path": "config/imblocker.json",
+      "hash": "5745b3f65d4618c5bbc08b2a171c74f7fc855cc1"
+    },
+    {
+      "path": "config/inventoryhud.json",
+      "hash": "0f7dec649ca9ac4891b2569f8197718936881ff5"
+    },
+    {
+      "path": "config/inventoryprofilesnext/cn-zj-hz-1.lcf.icu\u002623256/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "27665bca5069d796dce21748ff9e7b22e9787246"
+    },
+    {
+      "path": "config/inventoryprofilesnext/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "hash": "4687cf45914c45a4a67441d1f440d7d89d0f6281"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "9984b019823e8eaf19a40d0b7ee92590cb53b8e9"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "2e0fa9e9686ff941efafd5c1c35e4d5ec0a2e12f"
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "e826c7466194344d0cd9a8e4c85ccfa58608475a"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "dcb8ff789b2c9c9a92d2558c405f16a2aeb36360"
+    },
+    {
+      "path": "config/jade/usernamecache.json",
+      "hash": "6fc0e6f972119f8cd774405ed51888f8347ecaed"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "40d5564f5b7fc06fceca6a50d81d3e16374aaf3b"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "a2d1f22ee9a3aa27f3d25bb93c4c5d5cd5580e21"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "0d4f01ef03dca4c6cd400c5e0a4773b1ac5e5490"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "dd6106bd2ac4a3d2b02793ee58e46fb5786f758c"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "6a1b57d4ee83aa876899718af0c8d3152e4489d3"
+    },
+    {
+      "path": "config/keymap.json",
+      "hash": "94bef4c696c3be383af7d9ac40786e6686c68075"
+    },
+    {
+      "path": "config/lambdynlights.toml",
+      "hash": "7878ac5c2a2654203eb9fffa645f9978888ac8da"
+    },
+    {
+      "path": "config/malilib.json",
+      "hash": "38d9e77318ca57d5161d2aa76f26e0263dfa7f0e"
+    },
+    {
+      "path": "config/minihud/cn-zj-hz-1.lcf.icu_23256.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/minihud/cn-zj-hz-1.lcf.icu_23256_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/minihud/localhost_25565.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/minihud/localhost_25565_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/minihud/mc.qqzhi.cc_13131.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/minihud/mc.qqzhi.cc_13131_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/minihud/mc_cd.qqzhi.cc_13131.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/minihud/mc_cd.qqzhi.cc_13131_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/minihud/mc_hz.qqzhi.cc_13131.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/minihud/mc_hz.qqzhi.cc_13131_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/minihud/mc_iy.qqzhi.cc_13131.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/minihud/mc_iy.qqzhi.cc_13131_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/minihud.json",
+      "hash": "eda156a68950471a62bf65311348a3198083f24c"
+    },
+    {
+      "path": "config/modmenu.json",
+      "hash": "7e4d498194b4cfea3ac311623fe09a3fa2927860"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "config/resourceful-config-web.json",
+      "hash": "2943d79a1899cf8acb0ebd5c708c2443e5faa7b0"
+    },
+    {
+      "path": "config/respawningshulkers.json5",
+      "hash": "24eaec15eba9afbd5ae14ff2978b29ad9edbb973"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "hash": "eb4515a9c312a48ca400f31b7776ee7a6d724140"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "hash": "3947a83992030e82decb45375742cba0e4f28f9b"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "hash": "b1fdf3038060accec696177db699276ed074a6d2"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "hash": "ec80b098cc66d77092a0869ad4bed3799972c45d"
+    },
+    {
+      "path": "config/textile_backup.json5",
+      "hash": "38522e023f9bdce79a7306392ec65f095fa954cd"
+    },
+    {
+      "path": "config/tweakeroo.json",
+      "hash": "d9f921a0282f35d9183899f1300371048a8142ab"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "69a411bac8335087fc80bac0731aea8acb51f214"
+    },
+    {
+      "path": "journeymap/colorpalette.html",
+      "hash": "8a703a77f871f6ea0821c158be854bc9a526a589"
+    },
+    {
+      "path": "journeymap/colorpalette.json",
+      "hash": "52c7065012ee21dae98aab9ad5129761dbf66cb7"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.core.config",
+      "hash": "733280b0234f56dfb1a580d8af11d314031c4728"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.fullmap.config",
+      "hash": "fc020b1f4f4c71cdf0c4d03c80ded9de46065f46"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.minimap.config",
+      "hash": "b33e563100a22ce20a7309d29885242a0bd5df35"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.minimap2.config",
+      "hash": "32f805cf05ffa69783b29cfdf7413d668122e5c1"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.topo.config",
+      "hash": "46e1dddaee73d5903b1dd7948d731d63e053f8b3"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.waypoint.config",
+      "hash": "7bd56f2b627b8940e1e673da63fdb7e41fbf0eb2"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.webmap.config",
+      "hash": "f6e9649aefb2191936528abd5b45d75471d4b080"
+    },
+    {
+      "path": "journeymap/icon/theme/default.theme.config",
+      "hash": "3bd6fa9af17717b6d0ccce4133b35f7626d4456d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_begin.png",
+      "hash": "c811bcdeb1c19ebf433754025e1df1e3bf363061"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_end.png",
+      "hash": "c811bcdeb1c19ebf433754025e1df1e3bf363061"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_inner.png",
+      "hash": "5d8dc0dcbd3d03f3c63067e7649ccdc4b569fe2d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_begin.png",
+      "hash": "43a040a085427452ae129d7cb85be6a03163ad32"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_end.png",
+      "hash": "43a040a085427452ae129d7cb85be6a03163ad32"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_inner.png",
+      "hash": "5d8dc0dcbd3d03f3c63067e7649ccdc4b569fe2d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_disabled.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_hover.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_off.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_on.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_disabled.png",
+      "hash": "eb48555b5aa3640baafc658aa32e8a69d2c06568"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_hover.png",
+      "hash": "be10c006eab72f086d5cca11ec2bcd785d8ce2f4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_off.png",
+      "hash": "eb48555b5aa3640baafc658aa32e8a69d2c06568"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_on.png",
+      "hash": "26a258d5bd8490909fe269611aa4bd574bc94de1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/DesertTemple.theme2.json",
+      "hash": "a3d83b043da95ad37da725188ceeb366757fbfe9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/EndCity.theme2.json",
+      "hash": "9ee7ec3ffdec2c1f9261151e71634974db6fffc8"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/ForestMansion.theme2.json",
+      "hash": "ca3e1d41c0bba4005aa50c3ceb8a98c1fbb1dee6"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/about.png",
+      "hash": "f461cc3b3cd611558247fb7ecd033594e68c9f08"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/actions.png",
+      "hash": "5b88aac3387e5f63b5ba29c284191a99646c4629"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/alert.png",
+      "hash": "2c2178c4d11aa2f4f70e390441ecc3c2adc6966c"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/animals.png",
+      "hash": "1fc66426ce53560f90a0bca24890b0c8714b2d21"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/automap.png",
+      "hash": "1da71cdc3d72a1521e77f52923dbe9255d23f67f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/biome.png",
+      "hash": "9ecf86ef136b0f24f2dfa01911047172f3c42442"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/browser.png",
+      "hash": "3106c770f53d40a6c867da80bb665419df611af9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/caves.png",
+      "hash": "562edb7762f675de702cdc7bc657d7446693880e"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/close.png",
+      "hash": "e5ca87379db037c679fb92d0072f784443afede4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/day.png",
+      "hash": "7bfe8be57f5a770ae008effd7d0cac955f92d91c"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/delete.png",
+      "hash": "07ecdeea6b5a238bf4b5b2efdf97b1ca2ccb0b39"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/disable.png",
+      "hash": "f96c307ae700a3843dfba981a0cf46043c5dda07"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/follow.png",
+      "hash": "c1b1f897797021eb5fae548382de10b97f946905"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/grid.png",
+      "hash": "09afd9fa4691b587c929c6ccdf7a636d5692dee1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/keys.png",
+      "hash": "1d89290ae4fafaaeefe5e68373a25ac1e99b6b56"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/layers.png",
+      "hash": "8806ccc808740ec8d6ec48c412c0d951f8e71212"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/monsters.png",
+      "hash": "a05471a2929bb4777a817a1118b1ac47de1020c1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/night.png",
+      "hash": "0f9fe8a76a4b0feaa219b091694b585e8d9ceeda"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/options.png",
+      "hash": "1e7f049470b34ed17319fd6c4b45e0ff75e06530"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/pets.png",
+      "hash": "4cb5c9ac069d5bb608f2b671efbf6457eee54842"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/players.png",
+      "hash": "171c188e205ae5c6d447e4c52cfb3af905e83f4f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/reset.png",
+      "hash": "1186e004bdca5beb00b239de902e154167b717fb"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/savemap.png",
+      "hash": "1e4bf7ac739866f58a1dee5498c45678fe49520f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/search.png",
+      "hash": "8687431972527680ef2cfaa7913d0fdee8d3c1fc"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/server.png",
+      "hash": "f93f98b8561edae9cf52c96081e72b242e28ed66"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/theme.png",
+      "hash": "6ca282b7cbcea8e009ba4be265095b0e7a8b0973"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/topo.png",
+      "hash": "61f6b3c5c7983593a78f9771b1f4b3655415c3c5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/villagers.png",
+      "hash": "20979056701ba640c4c50cb5aff1ba9dd875cd91"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/waypoints.png",
+      "hash": "978ea1cdd28da49282d4456f061c2c924c20a70a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/zoomin.png",
+      "hash": "a93758aecf369719b0517212c979b983c29b4741"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/zoomout.png",
+      "hash": "3e20bc40df2b7667048ac037b85363f733881ed4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png",
+      "hash": "26adc50b1d9a1c13b4d26d70433649775ba5fe0a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png",
+      "hash": "4367fc3d812d8d5f81c6746f701fcd135645b3b5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png",
+      "hash": "5e3b19479e3bc0bf3af60c4482e779787d5c2e52"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png",
+      "hash": "aa405337c289ec63a01e72b8f8e7a3841cc35c0d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png",
+      "hash": "123813da9ba84038e69af47787adb62000b7cc30"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png",
+      "hash": "ab425705e2ae45e4db27b6f1af974e8303ef788b"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png",
+      "hash": "da3be616803ff558b8980ccac8ba77d64fe9b39a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png",
+      "hash": "65e0f984f11c10b015d22126d90345e647400875"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png",
+      "hash": "3e7846fe3fc526c6bb7cf6497dd8a719eadeab84"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png",
+      "hash": "3a8dc933863889e61ad7476938957f8e5f439ff0"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottom.png",
+      "hash": "fcf50a822335d1a9658175f3094e385c01800274"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png",
+      "hash": "3b63a83f6f8ba1dea73eff5f2bb0f2d324202bc9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomright.png",
+      "hash": "44bdb215f3bad82e2c2192cd13bd679662f7a7d6"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_compass_point.png",
+      "hash": "25b7af0026492c5e3faefcf47b1e29ec98032fc5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_left.png",
+      "hash": "f3592b1ac4b9468c38e5b6d8332200e769e31355"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_right.png",
+      "hash": "5988717bde8ef0060b6dc920f655ebbbaaabce40"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_top.png",
+      "hash": "60ef85784d07de0d1ab0500560af9e8b5387aec5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_topleft.png",
+      "hash": "691f58cc7ca8b938b857c8de077a08b883b66389"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_topright.png",
+      "hash": "b5edd14dfe4f8d55800da0de8b43e3fc00c96332"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottom.png",
+      "hash": "a3884c4387c24963f666f51032e1766d87697bea"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png",
+      "hash": "63cbad15df737b563dc20ec9aa573c68e527aca5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomright.png",
+      "hash": "df136d1e11230fa8d0fe0fb84f2081247f4262a9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_compass_point.png",
+      "hash": "25b7af0026492c5e3faefcf47b1e29ec98032fc5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_left.png",
+      "hash": "48a3168d150c7045ac459149e6ac770d00dc7026"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_right.png",
+      "hash": "8f3f23ff88192e6cc56172673680e4e669df894f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_top.png",
+      "hash": "08c8eeae6beec6a456207704751ec28208d604ab"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_topleft.png",
+      "hash": "092d5e14d84f3a385176098541f41e75401ef91d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_topright.png",
+      "hash": "80ac51b7bbdd40d1982cbbe8d8644a0c4bbefd97"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/NetherFortress.theme2.json",
+      "hash": "e8ace1c6652343c3f3647c88a9dc44bdb04f7cd7"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/OceanMonument.theme2.json",
+      "hash": "29b64ee8830fc876491e134f1f6485bfaac27f64"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/Purist.theme2.json",
+      "hash": "6889bb94b1f6d74d3eb392599593a011ee2670b8"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/Stronghold.theme2.json",
+      "hash": "504bb40aea12eea7e23dbbd79dc6af803e9bd7fd"
+    },
+    {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
+    },
+    {
+      "path": "mods/adastra-fabric-1.20.4-1.16.3.jar",
+      "hash": "9182f34a49babc0234219de668d96146479a0822"
+    },
+    {
+      "path": "mods/botarium-fabric-1.20.4-3.0.7.jar",
+      "hash": "0b03a428848b546856eab2d4c7a7a092b277a28c"
+    },
+    {
+      "path": "mods/cloth-config-13.0.121-fabric.jar",
+      "hash": "e20f396a937a09b686aa986c802643b9adbb311e"
+    },
+    {
+      "path": "mods/collective-1.20.4-7.30.jar",
+      "hash": "b69788c7acf9e341d972111a904ab57a76671a14"
+    },
+    {
+      "path": "mods/fabric-api-0.95.4+1.20.4.jar",
+      "hash": "f6d5bec4885374d8d7b35e745fff765069afe5dc"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar",
+      "hash": "02e0af07d7c1476a6bd0530d0dacf0a2a9f8a8ea"
+    },
+    {
+      "path": "mods/furnacerecycle-1.20.4-2.2.jar.bak",
+      "hash": "ecae4540c988b3d4fcade4d9cf6155519330e72b"
+    },
+    {
+      "path": "mods/keymap-0.9.0-beta.1+1.20.2-fabric.jar",
+      "hash": "e6a0a6190a58b65e4ce086e3ed9f2f10f1b8ac3a"
+    },
+    {
+      "path": "mods/libIPN-fabric-1.20.3-4.0.1.jar",
+      "hash": "a9a9b97d8e9331144170670fde2981d7c503a758"
+    },
+    {
+      "path": "mods/malilib-fabric-1.20.4-0.18.0.jar",
+      "hash": "edd1316f7e8696b013a124ef724eb05e93fea9ae"
+    },
+    {
+      "path": "mods/resourcefulconfig-fabric-1.20.4-2.4.4.jar",
+      "hash": "ce71ea64b902fc65100af0ef688fa2e693c6dc49"
+    },
+    {
+      "path": "mods/resourcefullib-fabric-1.20.4-2.4.7.jar",
+      "hash": "0aacf8383f058b9faa662353c51dba718d053fc3"
+    },
+    {
+      "path": "mods/tweakeroo-fabric-1.20.4-0.19.1.jar",
+      "hash": "60352ef9d82d6a04d50a6cbb5550b3489d7adc1a"
+    },
+    {
+      "path": "mods/[Carpet] fabric-carpet-1.20.3-1.4.128+v231205.jar.bak",
+      "hash": "53ee95647e15097f369061e372d8c9411635b4a7"
+    },
+    {
+      "path": "mods/[JEI物品管理器] jei-1.20.4-fabric-17.3.0.48.jar",
+      "hash": "70f845942a3484e8e15fcfb09aeede463d376175"
+    },
+    {
+      "path": "mods/[Lambda的动态光源] lambdynamiclights-2.3.4+1.20.4.jar",
+      "hash": "b44b10647f170732825b28d8ff44735ae31e3837"
+    },
+    {
+      "path": "mods/[Reese的钠视频界面] reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
+      "hash": "5e2f4ad814f34e2f55fda4efa30c878c5e573978"
+    },
+    {
+      "path": "mods/[一键背包整理Next] InventoryProfilesNext-fabric-1.20.3-1.10.9.jar",
+      "hash": "09be5800d028949bc7b7345b5f0d1149d1c75da7"
+    },
+    {
+      "path": "mods/[万用皮肤补丁] CustomSkinLoader_Fabric-14.19.1.jar",
+      "hash": "7e9c485121289231dab68417d49e3dd96e115462"
+    },
+    {
+      "path": "mods/[旅行地图] journeymap-1.20.4-5.9.20-fabric.jar",
+      "hash": "9b59a32fb010008b7dc34659476d48008c57b41c"
+    },
+    {
+      "path": "mods/[更好的经验修补] BetterThanMending-fabric-2.0.0.jar",
+      "hash": "c3261d7adfd25c6f218f91e7f05896e563a83526"
+    },
+    {
+      "path": "mods/[更好的进度] BetterAdvancements-Fabric-1.20.4-0.4.0.176.jar",
+      "hash": "67809bbd598824f3375d03a788bea411498ca633"
+    },
+    {
+      "path": "mods/[模组菜单] modmenu-9.0.0.jar",
+      "hash": "eb09a3b6668407df4ad9b24849d52a38c448877e"
+    },
+    {
+      "path": "mods/[潜影贝重生] respawningshulkers-1.20.4-3.7.jar",
+      "hash": "527838f0d5e1863776ef40bead49c1e72af33034"
+    },
+    {
+      "path": "mods/[物品栏HUD+] inventoryhud.fabric.1.20.4-3.4.19.jar",
+      "hash": "6136b140875746c5faa4e10f85a4008725988db1"
+    },
+    {
+      "path": "mods/[玉 🔍] Jade-1.20.4-fabric-13.2.1.jar",
+      "hash": "2fa281fd978d83062450ea6537db9a00ef10aa90"
+    },
+    {
+      "path": "mods/[经验机制改革] Clumps-fabric-1.20.4-15.0.0.2.jar",
+      "hash": "87fe810f25cba498da0055ccb4fd7812a6f23ddd"
+    },
+    {
+      "path": "mods/[舒适用品] comforts-fabric-7.1.0+1.20.4.jar",
+      "hash": "321a855183a675526bdc8d8486f82ee9711bd0d1"
+    },
+    {
+      "path": "mods/[苹果皮] appleskin-fabric-mc1.20.3-2.5.1.jar",
+      "hash": "d8c8f47cadf0bec89b0539f44e3c67df73d8e048"
+    },
+    {
+      "path": "mods/[输入法冲突修复] IMBlocker_4.0.5+1.20.jar",
+      "hash": "3c0f0d4552b1efee8797afb600b830ddc7689d8f"
+    },
+    {
+      "path": "mods/[迷你HUD] minihud-fabric-1.20.4-0.30.0.jar",
+      "hash": "581ff2c0d2e8db8f759f07032165344f68c9b605"
+    },
+    {
+      "path": "mods/[钠 · 扩展] sodium-extra-0.5.4+mc1.20.4-build.116.jar",
+      "hash": "5cdad24baaac7c254e07205aef6052946f4a5246"
+    },
+    {
+      "path": "mods/[钠] sodium-fabric-0.5.8+mc1.20.4.jar",
+      "hash": "4c38d7b01660a27a98406767c613b3f28b6c9dfe"
+    },
+    {
+      "path": "mods/[鼠标手势] MouseTweaks-fabric-mc1.20-2.25.jar",
+      "hash": "21ae6dd81324543e77c10bbb2b928320d71b6750"
+    },
+    {
+      "path": "natives-windows-x86_64/glfw.dll",
+      "hash": "441763565f855644c715e1adfe6f7ede4bfebe26"
+    },
+    {
+      "path": "natives-windows-x86_64/jemalloc.dll",
+      "hash": "42e285cb02cb8b649e98e3e62d13fdb5d2c8f31a"
+    },
+    {
+      "path": "natives-windows-x86_64/jna14511706272809198593.dll",
+      "hash": "d9ed8776645f6b4f52df16132450863c47ea92d7"
+    },
+    {
+      "path": "natives-windows-x86_64/jna14511706272809198593.dll.x",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl.dll",
+      "hash": "2a78383cdda7062a6a7fea9acaf0b1f3dcdf8577"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_opengl.dll",
+      "hash": "483db85790a51bab647aaf84d5034fe85cb07bc1"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_stb.dll",
+      "hash": "0475064086f42d57382d5ebedd1180215cb6d136"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL.dll",
+      "hash": "7c61d6527cbdb45a2610ebcb96d9ef874fe4b4d8"
+    },
+    {
+      "path": "resourcepacks/Physical_Falling_Trees_v1-5_1-20-2.zip",
+      "hash": "9ad52ee319d952c846f240de476100695945dad5"
+    },
+    {
+      "path": "resourcepacks/[1.20.1]MASA全家桶汉化包.zip",
+      "hash": "ae260ea571c24262637dcd3dbee2aaad4698aaad"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "778ecd15dc9f1c0de5973080e71b2a4750c6caf4"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "265f142dc39ae940e85eaf7877caae48a1ef56e1"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.4"
+    },
+    {
+      "id": "fabric",
+      "version": "0.15.6"
+    }
+  ]
+}
